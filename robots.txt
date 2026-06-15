@@ -25,4 +25,4 @@ Allow: /
 User-agent: Amazonbot
 Allow: /
 
-Sitemap: https://dariarealty.com/sitemap.xml
+Sitemap: https://dutracaue.github.io/dariaraichenko/sitemap.xml
